@@ -1,4 +1,4 @@
-# Simple water, heat, automation
+# Simple greenhouse automation
  for Raspberry Pi with DHT22
 
 
